@@ -1,4 +1,5 @@
 # Exploring-Hacker-News-Posts
+![file](https://user-images.githubusercontent.com/85991377/129797473-00c4ecc4-1b86-44cf-82a5-3c1bef61a6a1.png)
 ## In this project, I work with a data set of submissions to popular technology site Hacker News.
 ### I Use following skills together to complete this project
 - work with strings
