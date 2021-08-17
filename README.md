@@ -24,7 +24,10 @@ Hacker News is a site started by the startup incubator Y Combinator, where user-
 
 
 ## So What I Cover In This Project :-
-I set a goal for the project.
-I collected and sorted the data.
-I reformatted and cleaned the data to prepare it for analysis.
-I analyzed the data.
+- I set a goal for the project.
+
+- I collected and sorted the data.
+
+- I reformatted and cleaned the data to prepare it for analysis.
+
+- I analyzed the data.
