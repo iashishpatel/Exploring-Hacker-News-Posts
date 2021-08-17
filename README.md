@@ -20,3 +20,11 @@ Hacker News is a site started by the startup incubator Y Combinator, where user-
 - num_comments: the number of comments on the post
 - author: the username of the person who submitted the post
 - created_at: the date and time of the post's submission
+
+
+
+## So What I Cover In This Project :-
+I set a goal for the project.
+I collected and sorted the data.
+I reformatted and cleaned the data to prepare it for analysis.
+I analyzed the data.
